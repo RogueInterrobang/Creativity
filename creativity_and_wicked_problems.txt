@@ -15,3 +15,17 @@ contents
 5 exercises for making us more creative
 
 6 developing a truly creative perspective - attitudes to authority, to science, to "the canon", to popular opinion, and to discursive frameworks
+
+section 2 what creativity is and is not
+
+sub section b what creativity is not
+The difference between creativity and technique is one that the ancient Greeks found familiar, but is one with which we are far less familiar today. We tend to think of creativity as the envisioning of 
+something new followed by the process of making something in the world that increasingly corresponds to or even eventually surpasses what is contained within that origial idea. 
+I want to make the case that it is far more useful to separate the formulation of the original idea and the bringing into being of that idea. Both are an essential part of how humans must act within the 
+world if we are to build solutions to its wicked problems, yet each requires different skills that need not be compatible.This is far closer to the notion that Plato's contemporaries would have 
+recognised - that we form an idea, and once this formulation is complete our creative work ("poesis") is done. What remains is simply "mimesis", the copying of that idea into the world (much as a 3D 
+printer "copies" what is envisioned in the files it runs). This mimesis, or copying, is achieved through "techne", that is, through skilful endeavour. But however skilful that endeavour may be, it is not 
+part of the creative process.
+Where we must qualify this is by accounting for teh importance of iteration. It is often only through the making real of an idea that we see how it behaves. Sometimes we see that it does not behave as we 
+expect, other times we see further possibilities for it through observation of its behaviour. In both cases we retrn to and rebuild the idea. This rebuilding is part of the creative process. Iterative 
+feedback from the instantaition of the idea in the world was necessary to allowing this creative expansion, but ws not itself part of it.
