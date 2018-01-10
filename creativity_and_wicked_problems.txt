@@ -1,3 +1,4 @@
+
 Creativity as a way of solving wicked problems
 
 contents
@@ -29,3 +30,13 @@ part of the creative process.
 Where we must qualify this is by accounting for teh importance of iteration. It is often only through the making real of an idea that we see how it behaves. Sometimes we see that it does not behave as we 
 expect, other times we see further possibilities for it through observation of its behaviour. In both cases we retrn to and rebuild the idea. This rebuilding is part of the creative process. Iterative 
 feedback from the instantaition of the idea in the world was necessary to allowing this creative expansion, but ws not itself part of it.
+
+
+section 4 why creativity could succeed where other efforts at solving wicked problems have not
+We are often taught that the greatest virtue is persistence, and that solving the hardest problems is a case of working on them for longer, but what makes a problem wicked is rarely as it were the amount 
+of operations that need to be performed upon it for it to be solved. It is true that one part of wickedness may be that one does not know whether this is is where the wickedness lies so that there is 
+often the fear of giving up just before the crucial moment. Where this is the case, though, the best protection against stopping when what was needed was to continue or continuing when what was needed 
+was to stop is to have a conceptual framework that allows one to understand the effects of long-term operation and to relate their direction of travel to various possible roadmaps one of which may lead 
+to success. It is only in cases where the effect of innumerable operations remains hidden, as in some non-linear cases, that such mappings would leave us little the wiser. In all other cases it is the 
+creation of those pathways against which we map that was more a part of solving the problem than the continued operation that provided the data to compare to the pathways - this is a largepart of what we 
+mean when we say that creativity lies n the  generation and understanding of the idea and how it will be tested not in the techniques that perform these tests.
