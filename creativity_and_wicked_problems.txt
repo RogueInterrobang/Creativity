@@ -29,7 +29,7 @@ world if we are to build solutions to its wicked problems, yet each requires dif
 recognised - that we form an idea, and once this formulation is complete our creative work ("poesis") is done. What remains is simply "mimesis", the copying of that idea into the world (much as a 3D 
 printer "copies" what is envisioned in the files it runs). This mimesis, or copying, is achieved through "techne", that is, through skilful endeavour. But however skilful that endeavour may be, it is not 
 part of the creative process.
-Where we must qualify this is by accounting for teh importance of iteration. It is often only through the making real of an idea that we see how it behaves. Sometimes we see that it does not behave as we 
+Where we must qualify this is by accounting for the importance of iteration. It is often only through the making real of an idea that we see how it behaves. Sometimes we see that it does not behave as we 
 expect, other times we see further possibilities for it through observation of its behaviour. In both cases we retrn to and rebuild the idea. This rebuilding is part of the creative process. Iterative 
 feedback from the instantaition of the idea in the world was necessary to allowing this creative expansion, but ws not itself part of it.
 
