@@ -2,3 +2,6 @@ philosophical notes
 
 1 what are the principles we use to form relations between things (association, contiguity, other Humean 
 things), and how do we ensre we overcome these as they are a key boundary?
+
+2 working knowledge is not the things we know but how (easily/quickly/expansively) we are able to manipulate the 
+possible relations between those things 
